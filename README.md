@@ -5,6 +5,12 @@ This project demonstrates how to combine **image understanding** with **natural-
 
 ---
 
+![Invoice Extractor](invoice%20extractor/1.png)
+![Invoice Extractor](invoice%20extractor/2.png)
+
+
+---
+
 ## 🚀 Features
 
 - Upload invoice images (JPG, PNG, JPEG)  
